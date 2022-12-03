@@ -1,0 +1,35 @@
+.menu1{
+    position:absolute;
+    width: 20px ;
+    height: 2px ;
+    left: 284px;
+    top: 19px;
+    background: #c4c4c4;
+}
+
+.menu2{
+    position:absolute;
+    width: 20px ;
+    height: 2px ;
+    left: 284px;
+    top: 25px;
+    background: #c4c4c4;
+}
+
+.menu3{
+    position:absolute;
+    width: 20px ;
+    height: 2px ;
+    left: 284px;
+    top: 31px;
+    background: #c4c4c4;
+}
+
+.bars a:hover {
+    background-color: black;
+    color: black;
+  }
+  
+  .bars a.on {
+    color: black;
+  }
